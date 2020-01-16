@@ -17,7 +17,7 @@ class App extends React.Component{
         return(
             <ul>
                 <li>
-                    <Link to="/">Homeeeee</Link>
+                    <Link to="/">Home</Link>
                 </li>
                 <li>
                     <Link to="/post">Post</Link>
